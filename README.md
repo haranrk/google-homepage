@@ -1,2 +1,3 @@
 # google-homepage
-The frint-end of google.com
+The front-end of google.com
+I love coffee.
