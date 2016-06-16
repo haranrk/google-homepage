@@ -1,0 +1,23 @@
+h1{
+	font-family: 'Roboto', sans-serif;
+}
+h2{
+	font-family: impact;
+}
+.inline{
+	display: inline;
+	background-color: green;
+}
+/*#top{
+	display: inline-block;
+	font-family: arial;
+	background-color: blue;
+}*/
+div{
+	background-color: green;
+	display: inline-block;
+}
+p{
+
+	background-color: yellow;
+}
